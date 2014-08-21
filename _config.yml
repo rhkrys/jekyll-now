@@ -20,13 +20,13 @@ footer-links:
   dribbble: 
   email: 
   facebook: 
-  flickr: 
+  flickr: rhkrys
   github: rhkrys
-  instagram: 
+  instagram: rhkrys
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: rhkrys
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
