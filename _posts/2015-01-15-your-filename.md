@@ -21,8 +21,8 @@ facet of the organization to increase productivity. Identified and
 evaluated emerging technology, develop training as well as
 coordinated technology for conferences.
 Accomplishments
-● Restructured imaging process and saved $50,000.
-● Negotiated with vendors to save $1,000 in recurring fees.
-● Streamlined process for resolving technical support issues.
-● Developed communication method for training sessions.
-● Re-configured wireless network to accommodate more users.
+- Restructured imaging process and saved $50,000.
+- Negotiated with vendors to save $1,000 in recurring fees.
+- Streamlined process for resolving technical support issues.
+- Developed communication method for training sessions.
+- Re-configured wireless network to accommodate more users.
