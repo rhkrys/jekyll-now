@@ -270,40 +270,6 @@ progress, progress[role] {
   }
 }
 
-// Style the bar colors
-.skill-1::-webkit-progress-value {
-  background: #ff9e2c;
-}
-
-.skill-1::-moz-progress-bar {
-  background: #ff9e2c;
-}
-
-.skill-2::-webkit-progress-value {
-  background: #4ecdc4;
-}
-
-.skill-2::-moz-progress-bar {
-  background: #4ecdc4;
-}
-
-.skill-3::-webkit-progress-value {
-  background: #ff6b6b;
-}
-
-.skill-3::-moz-progress-bar {
-  background: #ff6b6b;
-}
-
-// Animation Keyframes
-@-webkit-keyframes bar-fill {
-  0% { width: 0; }
-}
-
-@keyframes bar-fill {
-  0% { width: 0; }
-}
-
 // .main
 //
 
